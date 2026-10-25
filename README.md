@@ -157,7 +157,7 @@ This isn't a demo chatbot — it was built and stress-tested to handle real busi
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/ai-receptionist-salon.git
+git clone https://github.com/Harshith0777/ai-receptionist-salon.git
 ```
 
 2. **Import workflows into n8n**
